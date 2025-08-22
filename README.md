@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou Júlia Cipriani
 
-<!--
-**juliacipriani150-pixel/juliacipriani150-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Perfil Profissional
 
-Here are some ideas to get you started:
+- 💻 Estudante de Programação
+- 🌱 Apaixonada por Tecnologia
+- 🎓 Cursando Aprendizagem Industrial Programação de Sistemas da informação / Senai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizada:
+
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=java,javascript)](https://skillicons.dev)
+
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+![Gmail Badge](https://img.shields.io/badge/-juliacipriani150@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliacipriani150@gmail.com)
+[![Linkedin: Julia Cipriani](https://img.shields.io/badge/-juliacipriani150-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliacipriani150/)](https://www.linkedin.com/in/juliacipriani150/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/juliacipriani150?style=social)](https://twitter.com/juliacipriani150) <br><br>
+
+![juliacipriani150-pixel GitHub stats](https://github-readme-stats.vercel.app/api?username=juliacipriani150-pixel&show_icons=true&theme=dark) <br><br>
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você! 😊
