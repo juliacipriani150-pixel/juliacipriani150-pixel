@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação
+- 💻 Estudante de Ensino Médio/Programação
 - 🌱 Apaixonada por Tecnologia
 - 🎓 Cursando Aprendizagem Industrial Programação de Sistemas da informação / Senai
 
