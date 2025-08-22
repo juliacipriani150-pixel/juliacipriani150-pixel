@@ -5,6 +5,7 @@
 - 💻 Estudante de Ensino Médio/Programação
 - 🌱 Apaixonada por Tecnologia
 - 🎓 Cursando Aprendizagem Industrial Programação de Sistemas da informação / Senai
+- 🤳 Cursando Inglês Avançado / Get It
 
 ## 🚀 Habilidades
 
