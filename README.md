@@ -28,4 +28,4 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ![juliacipriani150-pixel GitHub stats](https://github-readme-stats.vercel.app/api?username=juliacipriani150-pixel&show_icons=true&theme=dark) <br><br>
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você! 😊
+
